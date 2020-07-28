@@ -3,7 +3,24 @@
 
 - 🌱 Actualmente estoy aprendiendo un poco de **VueJs, Testing**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/carlosalabau](https://github.com/carlosalabau)
+- 👨‍💻 Mis proyectos:
+
+  - Red Social Frontend. Hecho con Angular
+  
+  [https://github.com/carlosalabau/red_social_Angular](https://github.com/carlosalabau/red_social_Angular)
+  
+  - Red Social Backend. Hecho con Laravel, MYSQL, Eloquent
+  
+  [https://github.com/carlosalabau/red_social_backend](https://github.com/carlosalabau/red_social_backend)
+  
+  - E-commerce Bicicletas. Hecho con React, MongoDB, Express, NodeJS.
+  
+  [https://github.com/carlosalabau/ProyectoReact](https://github.com/carlosalabau/ProyectoReact)
+  
+  - Proyecto Personal API Star Wars. Hecho con Angular y recogiendo datos de la API SWAPI.
+  
+  [https://github.com/carlosalabau/API-REST-Swapi](https://github.com/carlosalabau/API-REST-Swapi)
+
 
 - 📫 Para contactarme, en **carlytos347@gmail.com**
 
